@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZITICITY Shipping for WooCommerce\n"
+"POT-Creation-Date: 2022-06-16 12:14+0300\n"
+"PO-Revision-Date: 2022-06-22 13:58+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-shipping-ziticity.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Language: lt_LT\n"
+"X-Source-Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Author of the plugin/theme
+#: admin/class-wc-shipping-ziticity-admin.php:104
+#: includes/class-wc-shipping-ziticity.php:43
+#: includes/class-wc-shipping-ziticity.php:121
+msgid "ZITICITY"
+msgstr "ZITICITY"
+
+#: admin/class-wc-shipping-ziticity-admin.php:103
+msgid "Select a warehouse"
+msgstr "Pasirinkite sandėlį"
+
+#: admin/class-wc-shipping-ziticity-admin.php:128
+msgid "You must have at least one warehouse to submit an order to ZITICITY."
+msgstr ""
+"Tam, kad užsakytumėte ZITICITY pristatymą, privalote nurodyti bent vieną "
+"sandėlį."
+
+#: admin/class-wc-shipping-ziticity-admin.php:134
+msgid ""
+"After the order status becomes paid, you will be allowed to submit the order "
+"to ZITICITY."
+msgstr "ZITICITY pristatymą galėsite užsakyti po mokėjimo patvirtinimo."
+
+#: admin/class-wc-shipping-ziticity-admin.php:170
+msgid "Select a warehouse:"
+msgstr "Pasirinkite sandėlį:"
+
+#: admin/class-wc-shipping-ziticity-admin.php:181
+msgid "Does the order contain alcohol?"
+msgstr "Ar šiame užsakyme yra alkoholinių gėrimų?"
+
+#: admin/class-wc-shipping-ziticity-admin.php:190
+msgid "Does the order contain energy drinks?"
+msgstr "Ar šiame užsakyme yra energetinių gėrimų?"
+
+#: admin/class-wc-shipping-ziticity-admin.php:197
+msgid "Number of packages:"
+msgstr "Pakuočių skaičius:"
+
+#: admin/class-wc-shipping-ziticity-admin.php:206
+msgid "Parcel locker:"
+msgstr "Paštomatas:"
+
+#: admin/class-wc-shipping-ziticity-admin.php:215
+msgid "Parcel locker box size:"
+msgstr "Paštomato dėžutės dydis:"
+
+#: admin/class-wc-shipping-ziticity-admin.php:206
+msgid "Total weight (kg):"
+msgstr "Bendras svoris (kg):"
+
+#: admin/class-wc-shipping-ziticity-admin.php:212
+msgid "Submit the order to ZITICITY"
+msgstr "Užsakyti ZITICITY pristatymą"
+
+#: admin/class-wc-shipping-ziticity-admin.php:216
+msgid "The order was submitted to ZITICITY."
+msgstr "Užsakymas pateiktas."
+
+#: admin/class-wc-shipping-ziticity-admin.php:219
+msgid "Track order status "
+msgstr "Sekite pristatymo būseną "
+
+#: admin/class-wc-shipping-ziticity-admin.php:219
+msgid "here"
+msgstr "čia"
+
+#: admin/class-wc-shipping-ziticity-admin.php:222
+msgid "Get shipping labels"
+msgstr "Spausdinti lipdukus"
+
+#: admin/class-wc-shipping-ziticity-admin.php:223
+msgid "Cancel delivery"
+msgstr "Atšaukti pristatymą"
+
+#: admin/class-wc-shipping-ziticity-admin.php:275
+msgid "This order delivery cannot be cancelled."
+msgstr "Šis pristatymas negali būti atšauktas."
+
+#: admin/class-wc-shipping-ziticity-admin.php:294
+msgid "Print ZITICITY shipping labels"
+msgstr "Spausdinti ZITICITY lipdukus"
+
+#: admin/class-wc-shipping-ziticity-admin.php:365
+msgid ""
+"Could not send these orders to ZITICITY: %s. Check ZITICITY order "
+"configuration and try again."
+msgstr ""
+"Negalime perduoti šių užsakymų informacijos į ZITICITY: %s. Patikrinkite "
+"užsakymų ZITICITY konfigūraciją."
+
+#: admin/class-wc-shipping-ziticity-admin.php:367
+msgid "Could not send orders to ZITICITY due to unknown error."
+msgstr ""
+"Dėl nežinomos klaidos, negalime perduoti užsakymų informacijos į ZITICITY."
+
+#: admin/class-wc-shipping-ziticity-admin.php:508
+msgid "Cannot submit this order to ZITICITY."
+msgstr "ZITICITY pristatymo užsakyti negalite."
+
+#: includes/class-wc-shipping-ziticity.php:44
+msgid "ZITICITY shipping method."
+msgstr "ZITICITY pristatymo būdas."
+
+#: includes/class-wc-shipping-ziticity.php:104
+msgid "Select a service type"
+msgstr "Pasirinkite paslaugą"
+
+#: includes/class-wc-shipping-ziticity.php:105
+msgid "Select a parcel locker box size"
+msgstr "Pasirinkite paštomato dėžutės dydį"
+
+#: includes/class-wc-shipping-ziticity.php:131
+msgid "COD is <strong>available</strong> for this API token."
+msgstr "COD yra <strong>įjungtas</strong> šiam API raktui."
+
+#: includes/class-wc-shipping-ziticity.php:133
+msgid "COD is <strong>disabled</strong> for this API token."
+msgstr "COD yra <strong>išjungtas</strong> šiam API raktui."
+
+#: includes/class-wc-shipping-ziticity.php:143
+msgid "Available delivery services:"
+msgstr "Galimos pristatymo paslaugos:"
+
+#: includes/class-wc-shipping-ziticity.php:146
+msgid "Parcel lockers list updated at:"
+msgstr "Paštomatų sąrašas atnaujintas:"
+
+#: includes/class-wc-shipping-ziticity.php:149
+msgid "Minimum order amount for free shipping"
+msgstr "Minimali užsakymo suma nemokamam pristatymui"
+
+#: includes/class-wc-shipping-ziticity.php:152
+msgid "Users have to spend this amount to get free shipping."
+msgstr ""
+"Tam, kad gautų nemokamą pristatymą, pirkėjai turi pasiekti nurodytą sumą."
+
+#: includes/class-wc-shipping-ziticity.php:157
+msgid "Hide this method if cart weight is more/equal than"
+msgstr ""
+"Nerodyti šio būdo, jeigu pirkinių krepšelio svoris yra didesnis arba lygus"
+
+#: includes/class-wc-shipping-ziticity.php:160
+msgid ""
+"Products must have weight to make this option work. Enter weight in the same "
+"units that you have defined in settings."
+msgstr ""
+"Tam, kad ši funkcija veiktų, jūsų prekės privalo turėti apibrėžtą svorį. "
+"Įveskite duomenis naudodami tokius svorio matavimo vienetus."
+
+#: includes/class-wc-shipping-ziticity.php:165
+msgid "Calculation type"
+msgstr "Skaičiavimo būdas"
+
+#: includes/class-wc-shipping-ziticity.php:170
+msgid "Per order"
+msgstr "Pagal užsakymo sumą"
+
+#: includes/class-wc-shipping-ziticity.php:171
+msgid "Weight-based"
+msgstr "Pagal užsakymo svorį"
+
+#: includes/class-wc-shipping-ziticity.php:175
+msgid "Rates"
+msgstr "Įkainiai"
+
+#: includes/class-wc-shipping-ziticity.php:178
+msgid "Example: 5:10.00,7:12.00 Weight:Price,Weight:Price, etc..."
+msgstr "Pavyzdys: 5:10.00, 7:12.00 Svoris:Kaina, Svoris:Kaina, ir t.t."
+
+#: includes/class-wc-shipping-ziticity.php:186
+msgid "API Settings"
+msgstr "API nustatymai"
+
+#: includes/class-wc-shipping-ziticity.php:188
+msgid ""
+"Your API access details are obtained from ZITICITY. API settings refresh "
+"every time you save changes."
+msgstr ""
+"Informaciją apie API prieigą rasie ZITICITY savitarnoje. API nustatymai "
+"atsinaujiną kiekvieną kartą išsaugojus pakeitimus."
+
+#: includes/class-wc-shipping-ziticity.php:191
+msgid "API token"
+msgstr "API raktas"
+
+#: includes/class-wc-shipping-ziticity.php:197
+msgid "Test mode"
+msgstr "Testavimo režimas"
+
+#: includes/class-wc-shipping-ziticity.php:198
+msgid "Enable test mode"
+msgstr "Įjungti testavimo režimą"
+
+#: includes/class-wc-shipping-ziticity.php:201
+msgid "Enable this if you want your requests to go to ZITICITY test server."
+msgstr ""
+"Įjunkite šį režimą tuo atveju, jeigu norite, kad jūsų užklausos keliautų į "
+"ZITICITY testavimo serverį."
+
+#: includes/class-wc-shipping-ziticity.php:234
+msgid "Default values"
+msgstr "Numatytosios reikšmės"
+
+#: includes/class-wc-shipping-ziticity.php:243
+msgid ""
+"These values will be prefilled on Order page. You will be able to change "
+"them for each order separately."
+msgstr ""
+"Nurodytos reikšmės bus pagal nutylėjimą nustatomos kiekvienam užsakymui. Jūs "
+"galėsite jas pakeisti užsakymo puslapyje kiekvienam užsakymui atskirai."
+
+#: includes/class-wc-shipping-ziticity.php:239
+msgid "Warehouse / pick-up location"
+msgstr "Sandėlio / prekių paėmimo vieta"
+
+#: includes/class-wc-shipping-ziticity.php:246
+msgid "Total weight (kg)"
+msgstr "Bendras svoris (kg)"
+
+#: includes/class-wc-shipping-ziticity.php:256
+msgid ""
+"The default value will be used to products in the order do not have weight "
+"information."
+msgstr ""
+"Numatytoji reikšmė bus naudojama, jeigu prekės užsakyme neturi svorio "
+"informacijos."
+
+#: includes/class-wc-shipping-ziticity.php:253
+msgid "Parcel locker box size"
+msgstr "Paštomato dėžutės dydis"
+
+#: includes/class-wc-shipping-ziticity.php:260
+msgid "Has Alcohol"
+msgstr "Yra alkoholinių gėrimų"
+
+#: includes/class-wc-shipping-ziticity.php:267
+msgid "Has Energy drinks"
+msgstr "Yra energetinių gėrimų"
+
+#: includes/class-wc-shipping-ziticity.php:257
+msgid "Not available for parcel locker deliveries."
+msgstr "Šis nustatymas negalioja pristatymams į paštomatus."
+
+#: includes/class-wc-shipping-ziticity.php:219
+msgid "ZITICITY is enabled, but you have not entered the API token!"
+msgstr "ZITICITY pristatymai aktyvuoti, bet neįvedėte API duomenų!"
+
+#: includes/class-wc-shipping-ziticity.php:275
+msgid "Warehouses / pick-up locations"
+msgstr "Sandėlio / prekių paėmimo vieta"
+
+#: includes/class-wc-shipping-ziticity.php:281
+msgid "Address"
+msgstr "Adresas"
+
+#: includes/class-wc-shipping-ziticity.php:282
+msgid "Contact person / company name"
+msgstr "Kontaktinis asmuo / įmonės pavadinimas"
+
+#: includes/class-wc-shipping-ziticity.php:283
+msgid "Contact phone"
+msgstr "Telefonas"
+
+#: includes/class-wc-shipping-ziticity.php:284
+msgid "Comment"
+msgstr "Komentarai"
+
+#: includes/class-wc-shipping-ziticity.php:290
+msgid "Add Location"
+msgstr "Pridėti lokaciją"
+
+#: includes/class-wc-shipping-ziticity.php:291
+msgid "Remove selected location(s)"
+msgstr "Ištrinti pažymėtą (-as) lokaciją (-as)"
+
+#: includes/class-wc-shipping-ziticity.php:294
+msgid ""
+"You will be able to select from these locations when sending order "
+"information to ZITICITY."
+msgstr "Užsakydami ZITICITY pristatymą, galėsite rinktis iš šių lokacijų."
+
+#: includes/class-wc-shipping-ziticity.php:301
+#: includes/class-wc-shipping-ziticity.php:313
+msgid "Ex., Ateities g. 10A, Vilnius, Lietuva"
+msgstr "Pvz., Ateities g. 10A, Vilnius, Lietuva"
+
+#: public/class-wc-shipping-ziticity-public.php:144
+msgid "Please select your preferred parcel locker."
+msgstr "Pasirinkite pageidaujamą paštomatą."
+
+#: public/woocommerce/checkout/ziticity-parcel-lockers.php:3
+msgid "Parcel locker"
+msgstr "Paštomatas"
+
+#: public/woocommerce/checkout/ziticity-parcel-lockers.php:6
+msgid "Select parcel locker"
+msgstr "Pasirinkite paštomatą"

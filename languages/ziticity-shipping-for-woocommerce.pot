@@ -1,0 +1,297 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ZITICITY Shipping for WooCommerce\n"
+"POT-Creation-Date: 2021-05-21 11:48+0300\n"
+"PO-Revision-Date: 2020-11-23 13:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-shipping-ziticity.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Author of the plugin/theme
+#: admin/class-wc-shipping-ziticity-admin.php:104
+#: includes/class-wc-shipping-ziticity.php:43
+#: includes/class-wc-shipping-ziticity.php:121
+msgid "ZITICITY"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:103
+msgid "Select a warehouse"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:128
+msgid "You must have at least one warehouse to submit an order to ZITICITY."
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:134
+msgid ""
+"After the order status becomes paid, you will be allowed to submit the order "
+"to ZITICITY."
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:170
+msgid "Select a warehouse:"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:181
+msgid "Does the order contain alcohol?"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:190
+msgid "Does the order contain energy drinks?"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:197
+msgid "Number of packages:"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:206
+msgid "Parcel locker:"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:215
+msgid "Parcel locker box size:"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:206
+msgid "Total weight (kg):"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:212
+msgid "Submit the order to ZITICITY"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:216
+msgid "The order was submitted to ZITICITY."
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:219
+msgid "Track order status "
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:219
+msgid "here"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:222
+msgid "Get shipping labels"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:223
+msgid "Cancel delivery"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:275
+msgid "This order delivery cannot be cancelled."
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:294
+msgid "Print ZITICITY shipping labels"
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:365
+msgid "Could not send these orders to ZITICITY: %s. Check ZITICITY order configuration and try again."
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:367
+msgid "Could not send orders to ZITICITY due to unknown error."
+msgstr ""
+
+#: admin/class-wc-shipping-ziticity-admin.php:508
+msgid "Cannot submit this order to ZITICITY."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:44
+msgid "ZITICITY shipping method."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:104
+msgid "Select a service type"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:105
+msgid "Select a parcel locker box size"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:131
+msgid "COD is <strong>available</strong> for this API token."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:133
+msgid "COD is <strong>disabled</strong> for this API token."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:143
+msgid "Available delivery services:"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:146
+msgid "Parcel lockers list updated at:"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:149
+msgid "Minimum order amount for free shipping"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:152
+msgid "Users have to spend this amount to get free shipping."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:157
+msgid "Hide this method if cart weight is more/equal than"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:160
+msgid ""
+"Products must have weight to make this option work. Enter weight in the same "
+"units that you have defined in settings."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:165
+msgid "Calculation type"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:170
+msgid "Per order"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:171
+msgid "Weight-based"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:175
+msgid "Rates"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:178
+msgid "Example: 5:10.00,7:12.00 Weight:Price,Weight:Price, etc..."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:186
+msgid "API Settings"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:188
+msgid ""
+"Your API access details are obtained from ZITICITY. API settings refresh every "
+"time you save changes."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:191
+msgid "API token"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:197
+msgid "Test mode"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:198
+msgid "Enable test mode"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:201
+msgid "Enable this if you want your requests to go to ZITICITY test server."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:234
+msgid "Default values"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:243
+msgid "These values will be prefilled on Order page. You will be able to change them for each order separately."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:239
+msgid "Warehouse / pick-up location"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:246
+msgid "Total weight (kg)"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:256
+msgid "The default value will be used to products in the order do not have weight information."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:253
+msgid "Parcel locker box size"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:260
+msgid "Has Alcohol"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:267
+msgid "Has Energy drinks"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:257
+msgid "Not available for parcel locker deliveries."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:219
+msgid "ZITICITY is enabled, but you have not entered the API token!"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:275
+msgid "Warehouses / pick-up locations"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:281
+msgid "Address"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:282
+msgid "Contact person / company name"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:283
+msgid "Contact phone"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:284
+msgid "Comment"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:290
+msgid "Add Location"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:291
+msgid "Remove selected location(s)"
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:294
+msgid ""
+"You will be able to select from these locations when sending order information "
+"to ZITICITY."
+msgstr ""
+
+#: includes/class-wc-shipping-ziticity.php:301
+#: includes/class-wc-shipping-ziticity.php:313
+msgid "Ex., Ateities g. 10A, Vilnius, Lietuva"
+msgstr ""
+
+#: public/class-wc-shipping-ziticity-public.php:144
+msgid "Please select your preferred parcel locker."
+msgstr ""
+
+#: public/woocommerce/checkout/ziticity-parcel-lockers.php:3
+msgid "Parcel locker"
+msgstr ""
+
+#: public/woocommerce/checkout/ziticity-parcel-lockers.php:6
+msgid "Select parcel locker"
+msgstr ""

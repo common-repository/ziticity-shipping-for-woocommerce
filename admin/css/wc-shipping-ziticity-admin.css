@@ -1,0 +1,26 @@
+#warehouses_locations .forminp {
+    overflow-x: auto;
+}
+
+.ziticity_warehouses td {
+    vertical-align: middle;
+    padding: 4px 7px;
+}
+
+.ziticity_warehouses th {
+    padding: 9px 7px;
+}
+
+.ziticity_warehouses td input {
+    margin-right: 4px;
+}
+
+.ziticity_warehouses .check-column {
+    vertical-align: middle;
+    text-align: left;
+    padding: 0 7px;
+}
+
+.ziticity_warehouses .check-column input {
+    margin-left: 8px;
+}
